@@ -1,0 +1,4 @@
+C:\Development\TestApps\RMSTest\RMSTest\bin\Debug\RMSTest.dll
+C:\Development\TestApps\RMSTest\RMSTest\bin\Debug\RMSTest.pdb
+C:\Development\TestApps\RMSTest\RMSTest\obj\Debug\RMSTest.dll
+C:\Development\TestApps\RMSTest\RMSTest\obj\Debug\RMSTest.pdb

@@ -1,0 +1,9 @@
+C:\Development\TestApps\RMSTest\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Development\TestApps\RMSTest\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Development\TestApps\RMSTest\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\TestApps\RMSTest\UnitTestProject1\bin\Debug\RMSTest.dll
+C:\Development\TestApps\RMSTest\UnitTestProject1\bin\Debug\RMSTest.pdb
+C:\Development\TestApps\RMSTest\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Development\TestApps\RMSTest\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Development\TestApps\RMSTest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Development\TestApps\RMSTest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
