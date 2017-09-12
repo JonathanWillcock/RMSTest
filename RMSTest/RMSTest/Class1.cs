@@ -92,7 +92,7 @@ namespace RMSTest
             long maxProduct = 0;
             int h = searchGrid.GetLength(0);
             int w = searchGrid.GetLength(1);
-            //I treat the fixed dimension as giving the rows; the second as giving columns
+            //I treat the first dimension as giving the rows; the second as giving columns
             //NB It doesn't really matter, which is which!
             //first do verticals: max verticals given by (h-(adjacentIntegers - 1)) * w
             for (int i = 0; i <= h - adjacentIntegers; i++)
